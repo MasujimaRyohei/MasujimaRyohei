@@ -4,7 +4,7 @@ Link is [here](http://MasujimaRyohei.jp).<br/>
 You can know about me.<br/>
 Please feel free to contact!
 
-# SNS
+# My accounts
 * [Twittter](https://twitter.com/MasujimaRyohei)
 * [Facebook](https://www.facebook.com/MasujimaRyohei)
 * [note](https://note.com/masujimaryohei)

@@ -6,6 +6,6 @@ Please feel free to contact!
 
 # SNS
 * [Twittter](https://twitter.com/MasujimaRyohei)
-* [facebook](https://www.facebook.com/MasujimaRyohei)
+* [Facebook](https://www.facebook.com/MasujimaRyohei)
 * [note](https://note.com/masujimaryohei)
 

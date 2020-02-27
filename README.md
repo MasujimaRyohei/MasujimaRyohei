@@ -9,3 +9,8 @@ Please feel free to contact!
 * [Facebook](https://www.facebook.com/MasujimaRyohei)
 * [note](https://note.com/masujimaryohei)
 * [SoundCloud](https://soundcloud.com/masujimaryohei)
+
+# My managed web sites
+* [MasujimaRyohei.jp](https://MasujimaRyohei.jp)
+* [Inferuption.jp](https://Inferuption.jp)
+* [ShibuSma.com](https://ShibuSma.com)

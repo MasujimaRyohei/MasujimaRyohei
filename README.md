@@ -1,3 +1,6 @@
+![MasujimaRyohei's github stats](https://github-readme-stats.vercel.app/api?username=MasujimaRyohei&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasujimaRyohei&theme=radical)
+
 # What is this?
 This is my portfolio.<br/>
 Link is [here](http://MasujimaRyohei.jp).<br/>

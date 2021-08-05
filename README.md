@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://github.com/MasujimaRyohei/MasujimaRyohei/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/MasujimaRyohei/MasujimaRyohei/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 
 # What is this?

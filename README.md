@@ -1,7 +1,19 @@
 ![MasujimaRyohei's github stats](https://github-readme-stats.vercel.app/api?username=MasujimaRyohei&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasujimaRyohei&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MasujimaRyohei)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <a href="https://github.com/MasujimaRyohei/MasujimaRyohei/">
+    <img src="https://komarev.com/ghpvc/?username=MasujimaRyohei" alt="MasujimaRyohei" />
+  </a>
+  <a href="http://twitter.com/MasujimaRyohei">
+    <img height="20" src="https://img.shields.io/twitter/follow/MasujimaRyohei?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/MasujimaRyohei">
+    <img height="20" src="https://img.shields.io/github/followers/MasujimaRyohei?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+[![MasujimaRyohei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MasujimaRyohei)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # What is this?

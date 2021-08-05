@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/MasujimaRyohei/MasujimaRyohei/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
 
 
 # What is this?

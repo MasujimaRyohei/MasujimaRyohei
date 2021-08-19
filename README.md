@@ -13,9 +13,6 @@
   </a>
 </p>
 
-<img src="https://github.com/MasujimaRyohei/MasujimaRyohei/blob/main/images/stat.svg" alt="Alternative Text"/>
-
-
 # What is this?
 This is my portfolio.<br/>
 Link is [here](http://MasujimaRyohei.jp).<br/>

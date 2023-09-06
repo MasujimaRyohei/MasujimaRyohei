@@ -29,8 +29,4 @@ My [career](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)
 # My managed web sites
 * [MasujimaRyohei.jp](https://MasujimaRyohei.jp)
 * [Inferuption.jp](https://Inferuption.jp)
-* [ShibuSma.com](https://ShibuSma.com)
 * [Begrad.jp](https://Begrad.jp)
-* [Yosute-Hikage.com](https://yosute-hikage.com)
-* [Shibuhouse.com](https://shibuhouse.com)
-* [微笑むくん.com](https://微笑むくん.com)

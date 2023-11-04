@@ -21,6 +21,8 @@ Please feel free to contact!
 
 My [career](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)
 
+# My skills
+
 # My accounts
 * [X(Twittter)](https://twitter.com/MasujimaRyohei)
 * [Facebook](https://www.facebook.com/MasujimaRyohei)

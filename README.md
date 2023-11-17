@@ -23,6 +23,9 @@ My [career](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)
 
 # My skills
 
+* Unity
+* React
+
 # My accounts
 * [X(Twittter)](https://twitter.com/MasujimaRyohei)
 * [Facebook](https://www.facebook.com/MasujimaRyohei)

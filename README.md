@@ -25,6 +25,7 @@ My [career](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)
 
 * Unity
 * React
+* Python
 
 # My accounts
 * [X(Twittter)](https://twitter.com/MasujimaRyohei)

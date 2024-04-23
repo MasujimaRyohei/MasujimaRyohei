@@ -1,4 +1,4 @@
-### Japan
+## Japan
 - Saitama
 - Chiba
 - Tokyo

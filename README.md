@@ -26,7 +26,8 @@
 
 # About
 
-GitHub profile for **Masujima Ryohei**. Work, background, and contact details live on my site: **[MasujimaRyohei.jp](https://MasujimaRyohei.jp)**. A concise **[career summary](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)** is also here on GitHub.
+GitHub profile for **Masujima Ryohei**. Work, background, and contact details live on my site: **[MasujimaRyohei.jp](https://MasujimaRyohei.jp)**. 
+A concise **[career summary](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)** is also here on GitHub.
 
 Feel free to get in touch via the links in [My accounts](#my-accounts) below.
 

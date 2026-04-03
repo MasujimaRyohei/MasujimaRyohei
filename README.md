@@ -24,14 +24,11 @@
   </a>
 </p>
 
-# What is this??
+# About
 
-This is my portfolio.<br/>
-Link is [here](https://MasujimaRyohei.jp).<br/>
-You can know about me.<br/>
-Please feel free to contact!
+GitHub profile for **Masujima Ryohei**. Work, background, and contact details live on my site: **[MasujimaRyohei.jp](https://MasujimaRyohei.jp)**. A concise **[career summary](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)** is also here on GitHub.
 
-My [career](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)
+Feel free to get in touch via the links in [My accounts](#my-accounts) below.
 
 # My skills
 

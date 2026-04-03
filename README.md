@@ -1,7 +1,18 @@
-![MasujimaRyohei's github stats](https://github-readme-stats.vercel.app/api?username=MasujimaRyohei&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasujimaRyohei&theme=radical)
+<!-- github-readme-stats public host often returns 503 (rate limits). Alternatives below; self-host: https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own -->
 
-<p align="left"> 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=MasujimaRyohei&theme=radical&hide_border=true" alt="MasujimaRyohei's GitHub streak stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,react,python&theme=dark" alt="Tech stack: Unity, React, Python" />
+  </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/MasujimaRyohei/MasujimaRyohei/">
     <img src="https://komarev.com/ghpvc/?username=MasujimaRyohei" alt="MasujimaRyohei" />
   </a>
@@ -14,8 +25,9 @@
 </p>
 
 # What is this??
+
 This is my portfolio.<br/>
-Link is [here](http://MasujimaRyohei.jp).<br/>
+Link is [here](https://MasujimaRyohei.jp).<br/>
 You can know about me.<br/>
 Please feel free to contact!
 
@@ -28,11 +40,13 @@ My [career](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)
 * Python
 
 # My accounts
-* [X(Twittter)](https://twitter.com/MasujimaRyohei)
+
+* [X (Twitter)](https://twitter.com/MasujimaRyohei)
 * [Facebook](https://www.facebook.com/MasujimaRyohei)
 * [note](https://note.com/masujimaryohei)
 
 # My managed web sites
+
 * [MasujimaRyohei.jp](https://MasujimaRyohei.jp)
 * [Inferuption.jp](https://Inferuption.jp)
 * [Begrad.jp](https://Begrad.jp)

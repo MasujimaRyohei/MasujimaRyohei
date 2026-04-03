@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,react,python&theme=dark" alt="Tech stack: Unity, React, Python" />
+    <img src="https://skillicons.dev/icons?i=unity,react,reactnative,python,typescript,javascript,cs,c,cpp,html,css,aftereffects,premiere,photoshop,illustrator,ableton,blender&theme=dark&perline=6" alt="Tech stack: Unity, React, React Native, Python, TypeScript, JavaScript, C#, C, C++, HTML, CSS, After Effects, Premiere Pro, Photoshop, Illustrator, Ableton, Blender" />
   </a>
 </p>
 
@@ -35,9 +35,27 @@ My [career](https://github.com/MasujimaRyohei/Career/blob/main/MarkdownData.md)
 
 # My skills
 
+## Development
+
 * Unity
 * React
 * Python
+* TypeScript
+* React Native
+* JavaScript
+* C#
+* C
+* C++
+* HTML / CSS
+
+## Design & creative
+
+* After Effects
+* Premiere Pro
+* Photoshop
+* Illustrator
+* Ableton
+* Blender
 
 # My accounts
 

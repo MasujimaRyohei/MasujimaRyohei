@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,react,reactnative,python,typescript,javascript,cs,c,cpp,html,css,aftereffects,premiere,photoshop,illustrator,ableton,blender&theme=dark&perline=6" alt="Tech stack: Unity, React, React Native, Python, TypeScript, JavaScript, C#, C, C++, HTML, CSS, After Effects, Premiere Pro, Photoshop, Illustrator, Ableton, Blender" />
+    <img src="https://skillicons.dev/icons?i=unity,javascript,typescript,python,html,css,react,reactnative,nodejs,postgres,supabase,revenuecat,microcms,wordpress,photoshop,illustrator,blender,premiere,aftereffects,ableton,audacity,audition&theme=dark&perline=6" alt="Tool icons: Unity, JavaScript, TypeScript, Python, web stack, PostgreSQL, Supabase, microCMS, WordPress, Photoshop, Illustrator, Blender, Premiere, After Effects, Ableton, Audacity, Audition" />
   </a>
 </p>
 
@@ -35,25 +35,60 @@ Feel free to get in touch via the links in [My accounts](#my-accounts) below.
 
 ## Development
 
-* Unity
-* React
-* Python
-* TypeScript
-* React Native
-* JavaScript
-* C#
-* C
-* C++
-* HTML / CSS
+### Languages & engine
 
-## Design & creative
+- Unity (C#)
+- JavaScript
+- TypeScript
+- Python
 
-* After Effects
-* Premiere Pro
-* Photoshop
-* Illustrator
-* Ableton
-* Blender
+### Web & mobile UI
+
+- HTML / CSS
+- React
+- React Native
+
+### Server & data
+
+- Node.js
+- PostgreSQL
+- Supabase
+
+### CMS
+
+- microCMS
+- WordPress
+
+### Product & integrations
+
+- RevenueCat
+- Centry
+
+## Design (2D / 3D)
+
+- Photoshop
+- Illustrator
+- Blender
+
+## Video edit
+
+- Premiere Pro
+- After Effects
+
+## Music
+
+### Performance
+
+- Human Beatbox
+- DJ
+
+### DAW & production
+
+- Ableton Live
+- Audacity
+- Studio One
+- Audition
+- BandLab
 
 # My accounts
 

@@ -66,3 +66,5 @@ Feel free to get in touch via the links in [My accounts](#my-accounts) below.
 * [MasujimaRyohei.jp](https://MasujimaRyohei.jp)
 * [Inferuption.jp](https://Inferuption.jp)
 * [Begrad.jp](https://Begrad.jp)
+* [VGM Sound Collision](https://VGMsc.com)
+* [呑⭐︎弾 Web](https://donpachi.tokyo)

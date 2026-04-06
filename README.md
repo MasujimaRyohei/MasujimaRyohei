@@ -74,6 +74,7 @@ Feel free to get in touch via the links in [My accounts](#my-accounts) below.
 
 - Premiere Pro
 - After Effects
+- AviUtl
 
 ## Music
 
